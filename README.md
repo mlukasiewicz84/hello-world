@@ -1,2 +1,3 @@
 # hello-world
-Testowe repozytorium
+
+Cześć ziomeczki
